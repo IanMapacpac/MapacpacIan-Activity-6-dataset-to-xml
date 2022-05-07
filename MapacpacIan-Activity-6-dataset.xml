@@ -8,8 +8,8 @@
 	<study-type0>Retrospective Observational Study</study-type0>
 	<addressed0>Homeless</addressed0>
 	<challenge0>Evolving Cluster of COVID Cases in a Homeless Shelter in Boston</challenge0>
-	<solution0></solution0>
-	<strenth-of-evidence0></strenth-of-evidence0>
+	<solution0>Universal PCR testing, rather than a symptom triggered approach, may be a better strategy for identifying and mitigating COVID-19 among people experiencing homelessness</solution0>
+	<strenth-of-evidence0>patients: 408</strenth-of-evidence0>
 	<addedOn0></addedOn0>
 </Row-0>
 
@@ -22,8 +22,8 @@
 	<study-type1>Expert Review</study-type1>
 	<addressed1>Psychiatric Illness</addressed1>
 	<challenge1>Impact on Mental Health Services from the Pandemic</challenge1>
-	<solution1></solution1>
-	<strenth-of-evidence1></strenth-of-evidence1>
+	<solution1>Multidisciplinary mental health science research must be central to the international response to the COVID-19 pandemic, given the potential effects on individual and population mental health, and its potential effect on the brain function of some of those affected by the disease.</solution1>
+	<strenth-of-evidence1>NONE</strenth-of-evidence1>
 	<addedOn0></addedOn1>
 </Row-1>
 
@@ -35,8 +35,8 @@
 	<study-type2>Simulation</study-type2>
 	<addressed2>Poverty and Uninsured</addressed2>
 	<challenge2>Not all Americans are equally at risk of infection, severe disease, or mortality</challenge2>
-	<solution2></solution2>
-	<strenth-of-evidence2></strenth-of-evidence2>
+	<solution2>Both the federal and state governments will benefit from recognizing high intra-state, inter-county variation in population risks and response capacity.</solution2>
+	<strenth-of-evidence2>countries: USA</strenth-of-evidence2>
 	<addedOn2></addedOn2>
 </Row-2>
 
@@ -48,9 +48,9 @@
 	<study-type3>Case Series</study-type3>
 	<addressed3>Homeless</addressed3>
 	<challenge3>People experiencing homelessness in Boston are at high risk for coronavirus disease</challenge3>
-	<solution3></solution3>
-	<strenth-of-evidence3></strenth-of-evidence3>
-	
+	<solution3>Municipalities with sizable homeless populations should prepare urgently for the possibility of a surge in COVID-19 among people experiencing homelessness</solution3>
+	<strenth-of-evidence3>NONE</strenth-of-evidence3>
+	<addedOn3></addedOn3>
 </Row-3>
 
 <Row-4>
@@ -61,8 +61,8 @@
 	<study-type4>Editorial</study-type4>
 	<addressed4>Incarcerated</addressed4>
 	<challenge4>Social distancing to minimize transmission of coronavirus disease 2019 (COVID-19) is virtually impossible in correctional</challenge4>
-	<solution4></solution4>
-	<strenth-of-evidence4></strenth-of-evidence4>
+	<solution4>Releasing incarceated Individuals and increase thermoteters and hand sanitizer in prisons</solution4>
+	<strenth-of-evidence4>NONE</strenth-of-evidence4>
 	<addedOn4></addedOn4>
 </Row-4>
 
@@ -74,8 +74,8 @@
 	<study-type5>Expert Review</study-type5>
 	<addressed5>Substance Use Disorder</addressed5>
 	<challenge5>The novel coronavirus pandemic of 2020 presents vast challenges to humanity, and particularly to vulnerable populations including people with addictive disorders</challenge5>
-	<solution5></solution5>
-	<strenth-of-evidence5></strenth-of-evidence5>
+	<solution5>There is an urgent need to co-ordinate efforts nationally and internationally to mitigate these problems and to find innovative ways of continuing to provide clinical and public health services to help people with addictive disorders.</solution5>
+	<strenth-of-evidence5>NONE</strenth-of-evidence5>
 	<addedOn5></addedOn5>
 </Row-5>
 
@@ -87,8 +87,8 @@
 	<study-type6>Expert Review</study-type6>
 	<addressed6>Psychiatric Illness</addressed6>
 	<challenge6>Disasters disproportionately affect poor and vulnerable populations, and patients with serious mental illness may be among the hardest hit</challenge6>
-	<solution6></solution6>
-	<strenth-of-evidence6></strenth-of-evidence6>
+	<solution6>Expand and Strengthen Mental Health Services</solution6>
+	<strenth-of-evidence6>NONE</strenth-of-evidence6>
 	<addedOn6></addedOn6>
 </Row-6>
 
@@ -100,7 +100,7 @@
 	<study-type7>Expert Review</study-type7>
 	<addressed7>Incarcerated</addressed7>
 	<challenge7>People entering jails are among the most vulnerable in our society, and during incarceration, that vulnerability is exacerbated by restricted movement, confined spaces, and limited medical care.</challenge7>
-	<solution7></solution7>
+	<solution7>We believe in decarcerating, focusing on those who are least likely to commit additional crimes, but also on the elderly and infirm. Also urging police and courts to immediately suspend arresting and sentencing people, as much as possible, for low-level crimes and misdemeanors.</solution7>
 	<strenth-of-evidence7></strenth-of-evidence7>
 	<addedOn7></addedOn7>
 </Row-7>
@@ -113,7 +113,7 @@
 	<study-type8>Expert Review</study-type8>
 	<addressed8>Incarcerated</addressed8>
 	<challenge8>Poor prison healthcare has been reported by Armstrong</challenge8>
-	<solution8></solution8>
+	<solution8>Health education for inmates and prison staff must be intensified, and better treatment and prevention measures require increased funding. More non-custodial sentences would decongest prisons, reducing the potential for the outbreaks seen in China.</solution8>
 	<strenth-of-evidence8></strenth-of-evidence8>
 	<addedOn8></addedOn8>
 </Row-8>
@@ -126,7 +126,7 @@
 	<study-type9>Expert Review</study-type9>
 	<addressed9>Incarcerated</addressed9>
 	<challenge9>The economic toll from COVID-19 and the responses to this pandemic will increase housing instability and housing displacement in Delaware</challenge9>
-	<solution9></solution9>
+	<solution9>Income assistance represents the initial bulwark against housing instability</solution9>
 	<strenth-of-evidence9></strenth-of-evidence9>
 	<addedOn9></addedOn9>
 </Row-9>
@@ -139,7 +139,7 @@
 	<study-type10>Simulation</study-type10>
 	<addressed10>Homeless</addressed10>
 	<challenge10>The rapid progression of the severe acute respiratory syndrome coronavirus 2 pandemic has raised concerns about the potential impact of coronavirus disease on the homeless population</challenge10>
-	<solution10></solution10>
+	<solution10>The current crisis is likely to cause upwards of 21,000 hospitalizations and 3,400 deaths in the homeless population. There is a need to create adequate and humane accommodations for people living unsheltered during the pandemic</solution10>
 	<strenth-of-evidence10></strenth-of-evidence10>
 	<addedOn10></addedOn10>
 </Row-10>
